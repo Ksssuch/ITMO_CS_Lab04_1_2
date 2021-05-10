@@ -1,0 +1,6 @@
+C:\install folder\CSharpLabs\Lab05\STARTER\UTILITY\bin\Debug\Utils.exe
+C:\install folder\CSharpLabs\Lab05\STARTER\UTILITY\bin\Debug\Utils.pdb
+C:\install folder\CSharpLabs\Lab05\STARTER\UTILITY\obj\Debug\Utils.csprojAssemblyReference.cache
+C:\install folder\CSharpLabs\Lab05\STARTER\UTILITY\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\install folder\CSharpLabs\Lab05\STARTER\UTILITY\obj\Debug\Utils.exe
+C:\install folder\CSharpLabs\Lab05\STARTER\UTILITY\obj\Debug\Utils.pdb
