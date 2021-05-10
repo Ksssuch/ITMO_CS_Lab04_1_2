@@ -10,7 +10,12 @@ namespace Utils
     {
         public static void Main()
         {
-            int x;
+            
+
+
+
+
+           int x;
             int y;
             Console.WriteLine("Enter a number");
             x = int.Parse(Console.ReadLine());
@@ -18,10 +23,11 @@ namespace Utils
             y = int.Parse(Console.ReadLine());
             int greater;
             greater = Utils.Greater(x, y);
-            if (x > y)
-                Console.WriteLine("{0}", x);
-            else
-                Console.WriteLine("{0}", y);
+            Console.WriteLine("The greater value is " + greater);
+            Console.WriteLine("Before swap: " + x + "," + y);
+            Utils.Swap(ref x, ref y);
+            Console.WriteLine("After swap: " + x + "," + y);
+
         }
     }
 }
